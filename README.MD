@@ -2,6 +2,8 @@
 
 An API Authentication client to generate access token for Zoominfo API
 
+https://www.npmjs.com/package/zoominfo-api-auth-client
+
 ### Installation
 ```
 npm i zoominfo-api-auth-client
