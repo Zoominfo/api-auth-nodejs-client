@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
-    "jsrsasign": "^8.0.15"
+    "jsrsasign": "^10.2.0"
   }
 }
