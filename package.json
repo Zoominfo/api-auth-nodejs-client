@@ -1,6 +1,6 @@
 {
   "name": "zoominfo-api-auth-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zoominfo API Authentication Client",
   "main": "index.js",
   "scripts": {
